@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Hello from Cards Production Service"
+  contactDetails:
+    name: "wanwa Production"
+    email: "production@example.com"
+  onCallSupport:
+    - (090) 1234-3379
+    - (090) 8765-0000

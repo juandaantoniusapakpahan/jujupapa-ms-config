@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+cards:
+  message: "Hello from Cards dev Service"
+  contactDetails:
+    name: "wanwa dev"
+    email: "development@example.com"
+  onCallSupport:
+    - (090) 1234-3379
+    - (090) 8765-0000

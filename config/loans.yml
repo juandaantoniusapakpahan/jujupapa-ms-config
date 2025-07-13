@@ -1,0 +1,11 @@
+build:
+    version: "3.0"
+
+loans:
+    message: "Hello from loans dev Service"
+    contactDetails:
+        name: "wanwa Development"
+        email: "development@example.com"
+    onCallSupport:
+        - (090) 1234-1122
+        - (090) 8765-1314

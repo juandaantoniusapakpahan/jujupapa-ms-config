@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+accounts:
+  message: "Hello from Accounts dev Service"
+  contactDetails:
+    name: "wanwa dev"
+    email: "development@example.com"
+  onCallSupport:
+    - (090) 1234-3379
+    - (090) 8765-0000

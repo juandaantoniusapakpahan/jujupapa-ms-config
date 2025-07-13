@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Hello from Cards QA Service"
+  contactDetails:
+    name: "wanwa QA"
+    email: "qualitiesassurance@example.com"
+  onCallSupport:
+    - (090) 1234-3379
+    - (090) 8765-0000

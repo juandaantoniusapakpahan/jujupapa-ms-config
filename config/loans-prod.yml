@@ -1,0 +1,10 @@
+build:
+    version: "1.0"
+loans:
+    message: "Hello from Loans Production Service"
+    contactDetails:
+        name: "wanwa Production"
+        email: "production@example.com"
+    onCallSupport:
+        - (090) 1234-3379
+        - (090) 8765-0000
